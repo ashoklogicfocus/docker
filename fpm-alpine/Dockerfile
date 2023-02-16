@@ -1,4 +1,4 @@
-FROM php:8.1-fpm-alpine
+FROM php:8.1-fpm-alpine@sha256:9afd168b23e328bd65db84ff31a1c8daa1fe75f45450e7f68b1f1d7e827be277
 
 LABEL maintainer="pierre@piwik.org"
 
