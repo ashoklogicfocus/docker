@@ -1,4 +1,4 @@
-FROM php:8.1-fpm
+FROM php:8.1-fpm@sha256:3d3e56629255cc9973d0a62068421f40e75c7a41f942696ad368dd71adb39d02
 
 LABEL maintainer="pierre@piwik.org"
 
