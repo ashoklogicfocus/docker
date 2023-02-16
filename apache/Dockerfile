@@ -1,4 +1,4 @@
-FROM php:8.1-apache
+FROM php:8.1-apache@sha256:7977186e29892a66b50d53b476a9a21eb267b270158e3b85d8bafb3fc9eea692
 
 LABEL maintainer="pierre@piwik.org"
 
